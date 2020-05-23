@@ -1,2 +1,2 @@
 # COVID-19-Dashboard
-COVID-19 Dashboard worldwide updating with real time data.
+COVID-19 worldwide Dashboard updating with real time data.
